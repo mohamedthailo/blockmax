@@ -1,2 +1,0 @@
-# blockmax
-blockmax project - ocbtoken
